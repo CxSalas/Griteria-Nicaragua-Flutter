@@ -6,8 +6,6 @@ because I was looking for ideas to practice my Flutter skills.
 ## Screenshots 
 
 
-![](screen1.jpg)
-<img src="screen1.jpg"  width="650" >
+<img src="screen1.jpg"  width="450" >
 
-![](screen2.jpg)
-<img src="screen2.jpg"  width="650" >
+<img src="screen2.jpg"  width="450" >

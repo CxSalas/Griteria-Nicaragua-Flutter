@@ -5,5 +5,5 @@ because I was looking for ideas to practice my Flutter skills.
 
 ## Screenshots 
 
-![Screen1 1](screen1.jpg)
-![Screen2](screen2.jpg)
+![Screen1 1](screen1.jpg =650x)
+![Screen2](screen2.jpg =650x)

@@ -32,6 +32,7 @@ class DbConnection {
 
     // Delete any existing database:
     await deleteDatabase(dbPath);
+    await Directory(dbDir).create(recursive: true);
 
     // Create the writable database file from the bundled demo database file:
     ByteData data = await rootBundle.load("assets/Griteria.db");

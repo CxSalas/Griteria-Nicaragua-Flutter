@@ -1,6 +1,6 @@
 # Griteria Nicaragua Flutter
 
-This project was developed using Flutter and SQLite to listen the songs of the Virgen Maria made in Nicaragua with their lyrics.
+This project was developed using Flutter and SQLite to listen to the songs of the Virgen Maria made in Nicaragua with their lyrics.
 
 ## Screenshots 
 

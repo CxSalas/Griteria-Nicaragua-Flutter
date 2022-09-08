@@ -1,7 +1,6 @@
 # Griteria Nicaragua Flutter
 
-This project is an updated version of my old project Griteria Nicaragua created in Kotlin, this time I created a new version in Flutter with an improvment in the UI Design,
-because I was looking for ideas to practice my new Flutter skills and knowledge.
+This project was developed using Flutter and SQLite to listen the songs of the Virgen Maria made in Nicaragua with their lyrics.
 
 ## Screenshots 
 
